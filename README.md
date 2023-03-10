@@ -2,6 +2,8 @@
 
 A very simple implementation.
 
+Clone to a location on your machine and navigate into the folder.
+
 To run from the terminal, run:
 
 ```node
